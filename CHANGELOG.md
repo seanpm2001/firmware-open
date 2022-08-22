@@ -8,6 +8,8 @@ date followed by an underscore and a short git revision.
 
 - Updated CSME for TGL-H to 15.0.41.2158
 - Updated CSME for TGL-U to 15.0.41.2158
+- Fixed S0ix detection
+- oryp10: Release of open firmware with System76 EC
 
 ## 2022-08-03
 
